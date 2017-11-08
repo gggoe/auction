@@ -5,7 +5,7 @@ version: 1.0
 先简单认识一下Angular
 
 
-## 一.Angular 
+## 一.Angular 简介
 由谷歌维护的一个开源javascript框架
 
 主要分为 Angular1.5 MVC 和 Angular4.0 两个版本

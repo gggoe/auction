@@ -1,6 +1,6 @@
 version: 1.0
 
-本项目是Angular 入门项目 
+这是此项目的第一个版本
 
 先简单认识一下Angular
 

@@ -43,6 +43,11 @@ FLUX架构
 
 服务器渲染
 
+#### 下载Angular 
+```
+npm i -g @angular/cli
+```
+
 ## 二.Angular 程序架构 构建块
 
 **组件**: 是Angular 应用的基本构建块，你可以把一个组建理解为带有业务逻辑和数据的Html
